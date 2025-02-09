@@ -39,7 +39,7 @@ To get started with this project, you will need:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/Retrieval-Augmented-Generation-system.git
+    git clone hhttps://github.com/shravakushwaha/Retrieval-Augmented-Generation-system.git
     cd Retrieval-Augmented-Generation-system
     cd app
     ```
@@ -65,7 +65,7 @@ To get started with this project, you will need:
     GROQ_API_KEY="your-groq-api-key"
     ```
 
-    (On Windows, use `set` instead of `export`)
+    (On Windows, use `set` instead of `add`)
 
 5. **Docker Setup**:
 
