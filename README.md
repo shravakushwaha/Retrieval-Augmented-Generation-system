@@ -95,6 +95,25 @@ To get started with this project, you will need:
 
     Deploy the containerized application using AWS services.
 
+
+## Running Tests with pytest
+
+This project uses `pytest` for testing.
+
+### **Installation**
+Ensure you have pytest installed:
+```bash
+pip install pytest
+```
+
+## Running pytest Application Locally
+
+This project uses `pytest` for testing.
+```bash
+pytest
+```
+
+
 ### Running the Application Locally
 
 To run the FastAPI application locally:
