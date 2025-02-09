@@ -41,6 +41,7 @@ To get started with this project, you will need:
     ```bash
     git clone https://github.com/yourusername/Retrieval-Augmented-Generation-system.git
     cd Retrieval-Augmented-Generation-system
+    cd app
     ```
 
 2. **Set up the Python environment** (optional if using Docker):
