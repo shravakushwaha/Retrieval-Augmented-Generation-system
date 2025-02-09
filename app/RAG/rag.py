@@ -26,13 +26,9 @@ class RAG_chatbot:
         # Load environment variables
         load_dotenv()
         groq_key = os.getenv("groq_key")
-        print("=======",groq_key)
 
         # Initialize the LLaMA model
         self.llm = OllamaLLM(model="hf.co/sathvik123/llama3-ChatDoc")
-
-        # for agent
-        # groq_key = "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"
         
         self.groq_llm=ChatGroq(groq_api_key=groq_key, model_name="Gemma2-9b-It")
 
